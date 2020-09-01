@@ -25,7 +25,7 @@ import argparse
 import pickle
 import cv2
 import sys
-import osa
+import os
 
 
 ap = argparse.ArgumentParser()
