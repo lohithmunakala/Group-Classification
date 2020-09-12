@@ -28,17 +28,15 @@ Open the inference.ipynb file and run the cells with the test image folder and t
 
 
 
-Here is a graph of the network on the training data:
+### Here is a graph of the network on the training data:
 
 ![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20model/TRAINING_PLOT.png?raw=true)
 
+We can see that both the validation and training loss are close to 0.3 and the validation and training accuracy are almost 0.9 (90% accurate). 
 	
-The LR finder graph can be foudn here:
+### The LR finder graph can be found here:
 
 ![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20model/LRFIND_PLOT.png?raw=true)
-
-
-
-We can see that both the validation and training loss are close to 0.3 and the validation and training accuracy are almost 0.9 (90% accurate).  
- The Cyclic - LR plot can be found here:
- https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20model/CLR_PLOT.png?raw=true
+ 
+### The Cyclic - LR plot can be found here:
+ ![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20model/CLR_PLOT.png?raw=true)
