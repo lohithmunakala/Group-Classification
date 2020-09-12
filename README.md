@@ -3,6 +3,12 @@
 Claassifies Data Based on different groups : Toddler, Teenager, Adult 
 The following has been trained on ResNet152 and the validation accuracy is about 92%.
 
+![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/Sample%20Data/Sample_Toddlers.jpg)
+![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/Sample%20Data/Sample_Adults.jpg)
+![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/Sample%20Data/Sample_Teenagers.jpg)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;  Toddlers    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;                  Adults &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;       Teenagers
+
 ## Approach
 ### Input Images
 I collected the data from Bing as the source for the images. Using bing_image_downloader, the required files ie. pictures of toddlers, teenagers and adults were downloaded and saved into the input folder. 
@@ -24,8 +30,6 @@ The libraries that were used are Tensorflow, Python, Colab for training on GPU, 
 ### How to run the code:
 
 Open the inference.ipynb file and run the cells with the test image folder and the output will be displayed in the output/submission.csv.
-
-
 
 
 ### Here is a graph of the network on the training data:
