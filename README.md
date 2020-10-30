@@ -41,6 +41,8 @@ We can see that both the validation and training loss are close to 0.3 and the v
 ### The LR finder graph can be found here:
 
 ![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20model/LRFIND_PLOT.png?raw=true)
+This graph shows us that the best LR is from 10^-6 to 10^-4. Hence we choose the LR as these.
  
 ### The Cyclic - LR plot can be found here:
 ![alt text](hhttps://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20-649(F)/CLR_PLOT.png)
+This cyclic graoh is about the LR changing from time to time.
