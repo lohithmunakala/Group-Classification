@@ -43,4 +43,4 @@ We can see that both the validation and training loss are close to 0.3 and the v
 ![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20model/LRFIND_PLOT.png?raw=true)
  
 ### The Cyclic - LR plot can be found here:
- ![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20model/CLR_PLOT.png?raw=true)
+![alt text](hhttps://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20-649(F)/CLR_PLOT.png)
