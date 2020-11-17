@@ -11,7 +11,7 @@ The following has been trained on ResNet152 and the validation accuracy is about
 
 ## Approach and the way I've solved this problem
 ### Input Images
-I collected the data from Bing as the source for the images. Using bing_image_downloader, the required files ie. pictures of toddlers, teenagers and adults were downloaded and saved into the input folder. 
+I collected the data from Bing as the source for the images. Using a library called as  bing_image_downloader, the required files ie. pictures of toddlers, teenagers and adults were downloaded and saved into the input folder. 
 ### Feature Engineering 
 The images were resized into 224,224,3 and were augmented so that the number of images increases. The labels were processed and labels were created for each class. 
 ### Training the Model
