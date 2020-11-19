@@ -34,7 +34,7 @@ Open the inference.ipynb file and run the cells with the test image folder and t
 
 ### Here is a graph of the network on the training data:
 
-![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20model/TRAINING_PLOT.png?raw=true)
+![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20-649(F)/TRAINING_PLOT.png)
 
 We can see that both the validation and training loss are close to 0.3 and the validation and training accuracy are almost 0.9 (90% accurate). 
 	
@@ -44,5 +44,5 @@ We can see that both the validation and training loss are close to 0.3 and the v
 This graph shows us that the best LR is from 10^-6 to 10^-4. Hence we choose the LR as these.
  
 ### The Cyclic - LR plot can be found here:
-![alt text](hhttps://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20-649(F)/CLR_PLOT.png)
+![alt text](https://github.com/lohithmunakala/Group-Classification/blob/master/output/ResNet152%20-649(F)/CLR_PLOT.png)
 This cyclic graoh is about the LR changing from time to time.
